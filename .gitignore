@@ -44,3 +44,15 @@ venv/
 
 # Node
 node_modules/
+.claude/
+.playwright-cli/
+.playwright-mcp/
+codex-skills-reference-guide-zh.md
+codex-skills-reference-guide.md
+codex-skills-reference-guide.pdf
+full-snapshot.yml
+juejin-article-page.png
+juejin-editor-check.png
+juejin-login-clicked.png
+juejin-not-logged-in.png
+outputs/
